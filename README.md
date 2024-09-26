@@ -32,10 +32,46 @@ Repositório para aulas de programação e algoritmos
 - Crie um array associativo com caracteristicas de uma pessoa;
 - Desafio: faça um if checando se ela é maior de idade e imprima uma mensagem, caso seja:
 
-# objetos 
+# Objetos 
 
 - Php possui o paradigma de orientação a objetos;
 Podemos criar classes e objetos, e o objeto é considerado um tipo de dado;
 - Objetos possuem métodos que são susas ações e propriedades que são 
 suas caracteristicas;
 - Veremos objetos em maiores detalhes futuramente.
+
+# null 
+
+- O tipo de dado Null tem apenas um valor, o NULL; 
+- Um caso de uso do Null seria checar se uma variável tem ou não valor;
+- Podemos chegar se um valor é null com is_null()
+
+# Sobre as variáveis 
+
+- É a forma que temos para  declarar um valor e salva-lo na memória;
+- Uma variável em PHP tem o $ na frente do seu nome;
+- Ex: $nome = "Alan".
+- Podemos salvar qualquer tipo de dado;
+- Podemos alterar o valor de uma variável com o comando echo.
+
+# exercício 08
+
+- crie um arquivo php;
+- crie três  variáveis com tipos de dados diferentes;
+- Imprime estas variáveis.
+
+# exercício 09
+
+- Crie um arquivo PHP;
+- Crie duas variáveis com números;
+- Crie uma terceira com a soma destes dois números;
+- lembrando: a soma pode ser feita com o simbolo +;
+Ex: 2 + 4.
+
+# variavel de variavel 
+
+- Podemos criar uma variável por meio do nome de outra variavel, com um valor diferente;
+- O simbolo para esta função é o $$
+$x = "teste";
+$$x = 5;
+- Após a execução do código, a variavel teste (conteúdo do $x) será criada com o valor 5.
