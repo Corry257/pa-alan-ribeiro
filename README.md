@@ -75,3 +75,44 @@ Ex: 2 + 4.
 $x = "teste";
 $$x = 5;
 - Após a execução do código, a variavel teste (conteúdo do $x) será criada com o valor 5.
+
+# Escopo 
+
+- Como em outras linguagens em PHP também temos escopo de variáveis;
+
+- 
+
+# Escopo Local
+
+- A variavel local tem seu escopo definido dentro de uma função:
+
+- ela não é acessivel dora da mesma;
+o seui valor sempre é resetado
+
+# Escopo global 
+
+- A principal caracteristica da varupavek gkivbak pe ser deckarada fira de fybções;
+
+- Por comportamento padrão não são acessiveis dentro de funções;
+
+- Precisamos utilizar a palavra global para isso;
+
+Essa função da variavel global não ser acessivel dentro de funções, previne muito problermas no software.
+
+# Variável Estática 
+
+- A variável estática é declarada com a instrução static; 
+
+- O valor da mesma é mantido e alterado a cada execução de uma função;
+
+- É interessante este comportamento pois as variáveis de escopo local sempre são resetadas. 
+
+# paramentros de função
+
+- Os parâmetros de função também são considerados tipos de variáveis;
+
+- Este recurso nos ajuda a criar funções com valores dinâmicos;
+
+- Podendo alterá-los a cada invocalão da mesma;
+
+- Podemos passar mais de um parametro para uma função. 
