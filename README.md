@@ -80,7 +80,13 @@ $$x = 5;
 
 - Como em outras linguagens em PHP também temos escopo de variáveis;
 
-- 
+- Local: variável declarada em uma função;
+
+- global: variaveis declaradas fora de funções;
+
+- Static: Variavel declarada dentro da função, porém o seu valor permanece salvo entre chamadas da função;
+
+- Parametros de função: variáveis passadas para uma função, podendo ser utilizadas ao longo da mesma. 
 
 # Escopo Local
 
@@ -116,3 +122,14 @@ Essa função da variavel global não ser acessivel dentro de funções, previne
 - Podendo alterá-los a cada invocalão da mesma;
 
 - Podemos passar mais de um parametro para uma função. 
+
+# Expressões e Operadores - O que é uma expressão? 
+
+- Uma instrução de código que será avaliada e resultatá em um valor;
+
+- Uma simples impressão de um texto é uma expressão;
+
+- Uma soma ou operação matematica mais complexa tambném;
+
+- Na programação realizaremos diversas expressões durante nosso código, para formar nosso software. 
+
