@@ -5,7 +5,7 @@ Repositório para aulas de programação e algoritmos
 # Arrays (conjunto, lista)
 - O Array é um tipo d dado que serve para agrupar um conjunto de valores;
 
-- Podemos inserir quyalquer tipo de dado na lkista;
+- Podemos inserir qualquer tipo de dado na lista;
 
 - A sintaxe é [1,2,3,4,5];
 - Sempre [], dados separados por virgula;
@@ -133,3 +133,55 @@ Essa função da variavel global não ser acessivel dentro de funções, previne
 
 - Na programação realizaremos diversas expressões durante nosso código, para formar nosso software. 
 
+# Auto incremento e auto decremento 
+
+- Podemos incrementar um valor 
+
+# Operadores de compraração 
+
+- As operações com poperadores de comparação resultarão em true or false;
+
+- Igualdade: == 
+
+- idêntico: ===
+
+- Diferença: !=
+
+- Não idêntico: !==
+
+- Maior e maior ou igual a: > e >=
+
+-
+
+# Operador de igualdade 
+
+- Com o Operador de igualde vericamos se um valor é igual ao outro: 
+
+- O simbolo é: ==
+
+- Exemplo: 5 == 4 #false
+- Exemplo: 3 == 3 #true 
+
+# Exercício 15
+
+- Crie uma operação que retorne falso com igualdade: 
+- Crie uma operação que retorne verdadeiro com igualdade: 
+
+# Operador de diferença 
+
+- Com o operador de diferença vericamos se um valor édiferente de outro; 
+
+- O simbolo é: !=
+
+- exemplo: 5 != 5  #false 
+
+- exemplo: 10 != 5 #true 
+
+# Operador não idendito a 
+
+- Com o operador não idêntico a verificamos se um valor é diferente de outro. avaliando o seu tipo também:
+
+- O simbolo é: !==
+
+- Exemplo: 5 !== 4 #false
+- Exemplo: 3 !== "3" #true
