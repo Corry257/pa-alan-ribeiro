@@ -185,3 +185,62 @@ Essa função da variavel global não ser acessivel dentro de funções, previne
 
 - Exemplo: 5 !== 4 #false
 - Exemplo: 3 !== "3" #true
+
+# Exercício 16 
+
+- Insira o valor 5 em uma variável, e o valor 3 em outra;
+
+- Teste os operadores de: IGUALDADE, DIFERENÇA, IDENTICO e NÃO IDENTICO.
+
+# Operador maior e maior ou igual
+
+- Com o operador MAIOR QUE verificamos se um valor é maior que outro;
+
+- O simbolo é: >
+
+- Exemplo: 5 > 4 #true
+
+- Com o OPERADOR MAIOR OU IGUAL A  verificamos se um valor é maior ou igual a outro; 
+
+- O simbolo é: >= 
+
+- Exemplo: 5 >= 5 #true
+
+# Operador menor e menor ou igual a 
+
+- Com o OPERADOR MENOR QUE  verificamos se um valor é menor que outro; 
+
+- O simbolo é: <
+
+- Exemplo: 5 < 4 #false 
+
+- Com o OPERADOR MENOR OU IGUAL A verificamos se um valor é menor ou igual a outrro; 
+
+- O simbolo é: <= 
+
+- Exemplo: 11 <= 12 #true 
+
+# Operadores lógicos 
+
+- Com os operadores lógicos podemos ENCADEAR VÁRIAS COMPARAÇÕES: 
+
+- Operador AND: &&
+- Operador Or: ||
+- Operador NOT: !
+
+# Tabela verdade 
+
+- Com a tabela verdade, temos um resumo dos operadores lógios: 
+
+- imagem png da tabela verdade - 
+
+# Operador lógico AND 
+
+- Os operadores lógicos em conjunto dos de comparação TAMBÉM RETORNAM UMA BOOLEANO (True ou false);
+
+- No caso de AND temos TRUE apenas quando AS DUAS COMPARAÇÕES SÃO VERDADEIRAS; 
+
+- Simbolo: && 
+
+- Exemplo: 5 > 2 && 10 > 100 #true 
+
