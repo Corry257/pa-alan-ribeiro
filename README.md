@@ -244,3 +244,32 @@ Essa função da variavel global não ser acessivel dentro de funções, previne
 
 - Exemplo: 5 > 2 && 10 > 100 #true 
 
+# Exercício 17 
+
+- Verifique as seguintes operações com AND; 
+
+- 15 > 5 AND "João" === "João" 
+
+- "teste" > 5 AND 1 
+
+- 2 == 3 AND 
+
+# Operador lógico or 
+
+- O operador lógico OR resulta em VERDADEIRO caso QUALQUER UM DOS DOIS LADOS DA OPERAÇÃO SEJA VERDADEIRO; 
+
+- è só resulta em FALSO caso os DOIS LADOS SEJAM FALSOS; 
+
+- Simbolo: || 
+
+- Exemplo: 5 > 15 || "teste" == "teste" #true. 
+
+# Exercício 18 
+
+- Verifique as seguintes operações com OR; 
+
+- 12 < 5 OR "João" === "João" 
+
+- 1 > 5 OR 1 
+
+- 20 === "20" AND 51 >= 31 

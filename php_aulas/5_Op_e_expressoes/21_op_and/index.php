@@ -33,4 +33,12 @@ if($b <= $a && $c >= $d) {
     echo "entrou no if 7 <br>"; 
   }
 
+  if(($b <= $a && $c >= $d) && $a > $b) { 
+    echo "entrou no if 8 <br>"; 
+  }
+
+  if($b <= $a && $c >= $d && $c === $a) { 
+    echo "entrou no if 9 <br>"; 
+  }
+
 ?>
